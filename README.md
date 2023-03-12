@@ -1,4 +1,4 @@
-### Author : mike March 9th 2023
+### Author : kennedy March 9th 2023
 ****
 ## Project Description
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
@@ -64,7 +64,7 @@ Or you can access the web application directly via this [https://wondrous-lebkuc
 * Email : kimaniken2001@gmail.com
   4  
 index.html
-@@ -21,7 +21,7 @@ <h2 class="logo">Anita<span> Kahenya</span></h2>
+@@ -21,7 +21,7 @@ <h2 class="logo">Kennedy<span> Mbugua</span></h2>
             <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Education</a></li>

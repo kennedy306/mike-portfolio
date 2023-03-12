@@ -4,6 +4,7 @@
     top: 0;
     left: 0;
     z-index: 0;
+    background-color: gray;
   }
 *{ 
     padding: 0;
@@ -134,4 +135,7 @@ h5{
     background-color: transparent;
     border: 2px solid goldenrod;
     cursor: pointer;
+}
+.white{
+    color: white;
 }
